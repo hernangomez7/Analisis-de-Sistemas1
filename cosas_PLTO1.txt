@@ -1,0 +1,16 @@
+PLTO 3
+relacion:extraer del siguiente framento...
+
+a. se debe aplicar el 21% IVA al producto.
+b. motrar productos en una grilla.
+	o el presionar el boton (ya que no cambia la funcionalidad)
+c. el sistema debe mosttrar el precio con iva.
+	o el sistema debe mostrar los productos disponible.
+	o buscar producto por criterio.
+
+5)enfoque decendente consiste en dividir a partir del diagrama de contexto, el problema es que
+se basa en hipotesis de lo que tendria el sistema o sea que realmente no sabe como esta hecho.
+ventaja: no tiene sujestion empirica.
+a partir de acontecimiento identifico procesos y los junto hasta que llegar al diagrama de contexto.
+-para cada acontecimiento se resuelve con proceso, luego lo vamos a juntar, generando los siguientes
+niveles de especificacion.
